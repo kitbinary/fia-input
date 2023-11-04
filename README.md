@@ -1,4 +1,6 @@
 # fia-input
 
 ## dependencies
-* PyPDF2
+* camelot
+* ghostwriter
+* tkinter
