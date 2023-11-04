@@ -1,6 +1,4 @@
 # fia-input
 
 ## dependencies
-* tesseract
-* pytesseract
-* pillow
+* Py2PDF
