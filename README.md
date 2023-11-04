@@ -1,6 +1,6 @@
 # fia-input
 
-## dependancies
+## dependencies
 tesseract
 pytesseract
 pillow
